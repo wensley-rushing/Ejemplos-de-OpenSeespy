@@ -2,3 +2,4 @@ opensees
 veux
 numpy
 scipy
+xara
